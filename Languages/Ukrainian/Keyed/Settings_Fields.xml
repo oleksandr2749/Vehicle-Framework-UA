@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!-- (VehicleDef)-->
+  <VF_VehicleEnabled>Увімкнено</VF_VehicleEnabled>
+  <VF_VehicleDisabled>Вимкнути</VF_VehicleDisabled>
+  <VF_VehiclePlayerOnly>Лише гравець</VF_VehiclePlayerOnly>
+  <VF_VehicleRaiderOnly>Лише НІП</VF_VehicleRaiderOnly>
+
+  <VF_EnableButtonTooltip>Якщо вимкнено, цей транспортний засіб буде недоступний у грі. Стосується як гравця, так і фракцій NPC.</VF_EnableButtonTooltip>
+
+  <VF_MovementPermissions>Тип керування</VF_MovementPermissions>
+  <VF_NavigationType>Навігація</VF_NavigationType>
+  <VF_NavigationTypeTooltip>Категорія навігації для мапи світу. Диктує, коли транспортний засіб може пересуватися на мапі світу.</VF_NavigationTypeTooltip>
+
+  <VF_Nameable>Можна призначити назву</VF_Nameable>
+  <VF_NameableTooltip>Allow naming of this vehicle. Name will appear over the vehicle and will replace the displayed label.</VF_NameableTooltip>
+
+  <VF_CombatPower>Бойова міць</VF_CombatPower>
+  <VF_CombatPowerTooltip>Бойові бали - витрати на транспортні засоби, що необхідно створювати під час події.</VF_CombatPowerTooltip>
+
+  <VF_CanCaravan>Караван</VF_CanCaravan>
+  <VF_CanCaravanTooltip>Автомобіль можна брати в караван.</VF_CanCaravanTooltip>
+
+  <!-- Disabled Tooltip -->
+  <VF_SaveableFieldDisabledConditionTooltip>Вимкнути. {0}</VF_SaveableFieldDisabledConditionTooltip>
+  <VF_DisabledSingleModDependencyTooltip>Вимкнено. Сумісний мод відсутній у списку активних модів: {0}</VF_DisabledSingleModDependencyTooltip>
+  <VF_DisabledMultipleModsDependencyTooltip>Вимкнено. Сумісні моди відсутні у списку активних модів: {0}</VF_DisabledMultipleModsDependencyTooltip>
+  <VF_SaveableFieldDisabledTooltip>Вимкнено для цього транспорту.</VF_SaveableFieldDisabledTooltip>
+  <VF_SaveableFieldLockedTooltip>Налаштування заблоковано для цього транспорту.</VF_SaveableFieldLockedTooltip>
+  <VF_DebugDisabledTooltip>Наразі вимкнено для всього трнаспорту.</VF_DebugDisabledTooltip>
+  <VF_GizmoDisabledTooltip>Вимикається у налаштуваннях мода.</VF_GizmoDisabledTooltip>
+
+  <!-- Performance -->
+  <VF_OpportunisticTicking>Opportunistic Ticking</VF_OpportunisticTicking>
+  <VF_OpportunisticTickingTooltip>Vehicle components only tick when necessary, reducing impact on performance when idle.</VF_OpportunisticTickingTooltip>
+
+  <!-- (Properties) -->
+  <VF_CollisionMultiplier>Шкода істотам</VF_CollisionMultiplier>
+  <VF_CollisionMultiplierTooltip>Множник шкоди істоті при зіткнені з транспортом.</VF_CollisionMultiplierTooltip>
+  <VF_CollisionVehicleMultiplier>Шкодта транпорту</VF_CollisionVehicleMultiplier>
+  <VF_CollisionVehicleMultiplierTooltip>Множник шкоди транспорту при зіткнені з істотою.</VF_CollisionVehicleMultiplierTooltip>
+
+  <VF_ManhunterTargetsVehicle>Цілль агресивних хижаків</VF_ManhunterTargetsVehicle>
+  <VF_ManhunterTargetsVehicleTooltip>Агресивні хижаки можуть атакувати транспорт.</VF_ManhunterTargetsVehicleTooltip>
+  <VF_FishingEnabled>Рибалка з судна</VF_FishingEnabled>
+  <VF_FishingEnabledTooltip>Дозволяє рибалити, коли ви нерухомо стоїте над водою.</VF_FishingEnabledTooltip>
+
+  <VF_JobLimitations>Робота з транспортом</VF_JobLimitations>
+  <VF_MaxWorkers>Максимум робітників</VF_MaxWorkers>
+
+  <VF_WinterSpeedMultiplier>Множник швидкості взимку</VF_WinterSpeedMultiplier>
+  <VF_WinterSpeedMultiplierTooltip>Множник швидкості руху по мапі світу взимку.</VF_WinterSpeedMultiplierTooltip>
+  <VF_WorldSpeedMultiplier>Світовий множник швидкості</VF_WorldSpeedMultiplier>
+  <VF_WorldSpeedMultiplierTooltip>Множник швидкості руху по мапі світу.</VF_WorldSpeedMultiplierTooltip>
+
+  <VF_DischargePerTick>Швидкість розряду</VF_DischargePerTick>
+  <VF_TicksPerCharge>Шкидкість заряду</VF_TicksPerCharge>
+  <VF_FuelConsumptionRate>Витрати пального</VF_FuelConsumptionRate>
+  <VF_FuelConsumptionRateWorldMultiplier>Світовий множник</VF_FuelConsumptionRateWorldMultiplier>
+  <VF_FuelCapacity>Вміщення пального</VF_FuelCapacity>
+  <VF_AutoRefuelPercent>Автозаправка %</VF_AutoRefuelPercent>
+
+  <VF_FuelConsumptionWorld>Витрати пального %</VF_FuelConsumptionWorld>
+  <VF_FuelConsumptionWorldTooltip>Множник витрати пальново під час переміщення по мапі світу.</VF_FuelConsumptionWorldTooltip>
+  <VF_LaunchFixedMaxDistance>Фіксована максимальна відстань</VF_LaunchFixedMaxDistance>
+  <VF_LaunchFixedMaxDistanceTooltip>Встановити фіксовану максимальну відстань, яку може пролетіти транспортний засіб незалежно від рівня пального.</VF_LaunchFixedMaxDistanceTooltip>
+  <VF_LaunchFixedMaxDistanceDisabled>None</VF_LaunchFixedMaxDistanceDisabled>
+  <VF_ReconDistance>Дистанція розвідки</VF_ReconDistance>
+  <VF_ReconDistanceTooltip>Відстань у плитках, на яку шатл зможе здійснити розвідку місцевості чи населеного пункту.</VF_ReconDistanceTooltip>
+  <VF_ControlInFlight>Контроль у польоті</VF_ControlInFlight>
+  <VF_ControlInFlightTooltip>Керуйте літальним апаратом під час польоту. Дозволяє змінювати траєкторію польоту під час польоту, вибирати місце приземлення після завантаження мапи та обстрілювати мапи, які ще не були завантажені.</VF_ControlInFlightTooltip>
+  <VF_SpaceFlight>Космічні польоти</VF_SpaceFlight>
+  <VF_SpaceFlightTooltip>Ракета здатна приземлятися на космічні об'єкти і злітати з них.</VF_SpaceFlightTooltip>
+
+  <VF_RateOfClimb>Швидкість підйому</VF_RateOfClimb>
+  <VF_RateOfClimbTooltip>Збільшення висоти польоту транспорту за тік.</VF_RateOfClimbTooltip>
+  <VF_MaxAltitude>Максимальна висота</VF_MaxAltitude>
+  <VF_MaxAltitudeTooltip>Максимальна висота, яку може досягти цей літальний транспорт</VF_MaxAltitudeTooltip>
+  <VF_MaxFallRate>Максимальна швидкість падіння</VF_MaxFallRate>
+  <VF_MaxFallRateTooltip>Максимальна висота, на яку знизиться цей літальний транспорт, якщо його зіб'ють або у нього скінчиться пальне.</VF_MaxFallRateTooltip>
+
+  <VF_Instant>Виттєво</VF_Instant>
+
+</LanguageData>

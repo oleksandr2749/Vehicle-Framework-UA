@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PackVehicle.label>скласти в транспорт</PackVehicle.label>
+  <PackVehicle.verb>скласти</PackVehicle.verb>
+  <PackVehicle.gerund>складає в транспорт</PackVehicle.gerund>
+
+  <PackVehicleTurret.label>скласти в транспорт</PackVehicleTurret.label>
+  <PackVehicleTurret.verb>скласти</PackVehicleTurret.verb>
+  <PackVehicleTurret.gerund>складає в транспорт</PackVehicleTurret.gerund>
+
+  <LoadUpgradeMaterials.label>завантажити матеріали</LoadUpgradeMaterials.label>
+  <LoadUpgradeMaterials.verb>завантажити</LoadUpgradeMaterials.verb>
+  <LoadUpgradeMaterials.gerund>Завантажує матеріали/LoadUpgradeMaterials.gerund>
+
+  <WorkOnUpgrade.label>покращити</WorkOnUpgrade.label>
+  <WorkOnUpgrade.verb>покращити</WorkOnUpgrade.verb>
+  <WorkOnUpgrade.gerund>покращує</WorkOnUpgrade.gerund>
+
+  <RefuelVehicle.label>заправити транспорт</RefuelVehicle.label>
+  <RefuelVehicle.verb>заправаити</RefuelVehicle.verb>
+  <RefuelVehicle.gerund>заправляє транспорт</RefuelVehicle.gerund>
+
+  <RepairVehicle.label>відремонтувати транспорт</RepairVehicle.label>
+  <RepairVehicle.verb>відремонтувати</RepairVehicle.verb>
+  <RepairVehicle.gerund>ремонтує транспорт</RepairVehicle.gerund>
+
+  <DisassembleVehicle.label>розібрати транспорт</DisassembleVehicle.label>
+  <DisassembleVehicle.verb>розібрати</DisassembleVehicle.verb>
+  <DisassembleVehicle.gerund>розбирає транспорт</DisassembleVehicle.gerund>
+
+  <PaintVehicle.label>пофарбувати транспорт</PaintVehicle.label>
+  <PaintVehicle.verb>пофарбувати</PaintVehicle.verb>
+  <PaintVehicle.gerund>фарбує транспорт</PaintVehicle.gerund>
+
+
+</LanguageData>

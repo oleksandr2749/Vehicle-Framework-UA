@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DebugSettlement.label>Оригінальна локація</DebugSettlement.label>
+  <DebugSettlement.description>Відладка</DebugSettlement.description>
+
+  <DockedBoat.label>Пришвартоване судто</DockedBoat.label>
+  <DockedBoat.description>Залишити судто, щоб йти пішки.</DockedBoat.description>
+
+  <VehicleCaravan.label>Транспортний караван</VehicleCaravan.label>
+  <VehicleCaravan.description>Група мандрівників з транспортними засобами.</VehicleCaravan.description>
+
+  <AerialVehicle.label>Літальний апарат</AerialVehicle.label>
+  <AerialVehicle.description>Літальний апарат, здатний літати по мапі світу.</AerialVehicle.description>
+
+  <CrashedShipSite.label>Місце аварії</CrashedShipSite.label>
+  <CrashedShipSite.description>Нещодавно збитий літальний апарат з можливими вцілілими.</CrashedShipSite.description>
+
+
+</LanguageData>

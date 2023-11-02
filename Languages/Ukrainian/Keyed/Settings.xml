@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VF_MainSettings>Головні</VF_MainSettings>
+
+  <!-- Misc. -->
+  <VF_ListSearchText>Пошук...</VF_ListSearchText>
+  <VF_SettingsDisabledTooltip>Налаштування заблоковані для цього транспорту і не можуть бути змінені.</VF_SettingsDisabledTooltip>
+  <VF_NonUpgradeableSettingsTooltip>Цей автомобіль не можна модернізувати.</VF_NonUpgradeableSettingsTooltip>
+  <VF_RecolorDefaultMaskTooltip>Змінити шаблон за замовчуванням</VF_RecolorDefaultMaskTooltip>
+
+  <!-- World & Map Generation -->
+  <VF_WorldMapGen>Створення світу/мапи</VF_WorldMapGen>
+  <VF_BeachGenMultiplier>Множник розміру пляжу</VF_BeachGenMultiplier>
+  <VF_BeachGenMultiplierTooltip>Збільшити кількість води на узбережжі.</VF_BeachGenMultiplierTooltip>
+  <VF_ForceSettlementCoast>Переміщувати поселення до узбережжя</VF_ForceSettlementCoast>
+  <VF_ForceSettlementCoastTooltip>Переміщувати сусідні поселення фракцій до узбережжя, якщо вони знаходяться в заданому радіусі</VF_ForceSettlementCoastTooltip>
+  <VF_EverySettlementToCoast>Кожен населений пункт</VF_EverySettlementToCoast>
+  <VF_WorldTiles>плити</VF_WorldTiles>
+
+  <!-- General Settings -->
+  <VF_SettingsGeneral>Головні</VF_SettingsGeneral>
+  <VF_WillRequireRestart>Ця дія потребує перезапуск гри.</VF_WillRequireRestart>
+  <VF_ModifiableSettings>Налаштування, які можна змінювати</VF_ModifiableSettings>
+  <VF_ModifiableSettingsTooltip>Увімкнути змінювані налаштування. Перезапуск з вимкненим цим параметром призведе до обходу генерації змінних налаштувань. Визначає, чи повинні транспорти використовувати значення з налаштувань модифікацій або Defs</VF_ModifiableSettingsTooltip>
+  <VF_CustomShaders>Використовувати RGB шейдер</VF_CustomShaders>
+  <VF_CustomShadersTooltip>Увімкнути використання кастомних шейдерів, що надаються фреймворком.</VF_CustomShadersTooltip>
+  <VF_DiagonalVehicleRendering>Дозволити діагональну візуалізацію</VF_DiagonalVehicleRendering>
+  <VF_DiagonalVehicleRenderingTooltip>Транспорт, що підтримує діагональний рендеринг, буде робити це, якщо встановити діагональне обертання (північний схід, південний схід, південний захід, північний захід)</VF_DiagonalVehicleRenderingTooltip>
+
+  <VF_FullVehiclePathing>Повний маршрут транспорту</VF_FullVehiclePathing>
+  <VF_FullVehiclePathingTooltip>При визначенні найкоротшого шляху використовуватиметься весь хітбокс транспорту. Транспорт все ще буде обмежений своїм розміром.</VF_FullVehiclePathingTooltip>
+  <VF_SmoothVehiclePathing>Плавний маршрут транспорту</VF_SmoothVehiclePathing>
+  <VF_SmoothVehiclePathingTooltip>Прокладання маршруту транспорту матиме додаткове значення "повороту", запобігаючи непотрібним зигзагоподібним рухам заради найкоротшого шляху.</VF_SmoothVehiclePathingTooltip>
+  <VF_HierarchalPathfinding>Ієрархічний маршрут (експериментальний)</VF_HierarchalPathfinding>
+  <VF_HierarchalPathfindingTooltip>Використовує HPA* замість A*. Зменшує точність але збільшує швидкість прокладання маршруту.</VF_HierarchalPathfindingTooltip>
+
+  <VF_RoadBiomeCostPathing>Вплив біому на дорогу</VF_RoadBiomeCostPathing>
+  <VF_RoadBiomeCostPathingTooltip>Транспортний караван, що рухається дорогою на мапі світу, залежатиме від біому.</VF_RoadBiomeCostPathingTooltip>
+  <VF_MultiplePawnsPerJob>Взаємодія кількох персонажів</VF_MultiplePawnsPerJob>
+  <VF_MultiplePawnsPerJobTooltip>Дозволяє декільком персонажам взіємодіяти з одним транспортом. Кількість встановлюється модером.</VF_MultiplePawnsPerJobTooltip>
+  <VF_HideDisabledVehicles>Приховати вимкнений транспорт</VF_HideDisabledVehicles>
+  <VF_HideDisabledVehiclesTooltip>Вимкнений транспорт з налаштувань мода буде приховано в меню архітектора.</VF_HideDisabledVehiclesTooltip>
+
+  <!-- Performance -->
+  <VF_PerformanceSettings>Performance</VF_PerformanceSettings>
+  <VF_PassiveWaterWaves>Passive Water Waves</VF_PassiveWaterWaves>
+  <VF_PassiveWaterWavesTooltip>Generate passive waves when boat is idle.</VF_PassiveWaterWavesTooltip>
+  <VF_AerialVehicleEffects>Aerial Vehicle Effects</VF_AerialVehicleEffects>
+  <VF_AerialVehicleEffectsTooltip>When aerial vehicles takeoff and land, spawn flecks and render overlay textures.</VF_AerialVehicleEffectsTooltip>
+
+  <!-- Multipliers -->
+  <VF_VehicleDamageMultipliers>Vehicle Damage</VF_VehicleDamageMultipliers>
+  <VF_MeleeDamageMultiplier>Melee Damage Multiplier</VF_MeleeDamageMultiplier>
+  <VF_RangedDamageMultiplier>Ranged Damage Multiplier</VF_RangedDamageMultiplier>
+  <VF_ExplosiveDamageMultiplier>Explosive Damage Multiplier</VF_ExplosiveDamageMultiplier>
+
+  <!-- VehicleTurrets -->
+  <VF_VehicleTurrets>Vehicle Turrets</VF_VehicleTurrets>
+  <VF_TurretOverheatMechanics>Turret Overheating</VF_TurretOverheatMechanics>
+  <VF_TurretOverheatMechanicsTooltip>Some turrets have overheat mechanics to prevent nonstop firing without consequences. Keep this enabled?</VF_TurretOverheatMechanicsTooltip>
+
+  <!-- Land Vehicles (none right now)-->
+
+  <!-- Sea Vehicles -->
+  <VF_Fishing>Fishing</VF_Fishing>
+  <VF_FishingInactive>Fishing (Inactive)</VF_FishingInactive>
+  <VF_FishingMultiplier>Fishing Multiplier</VF_FishingMultiplier>
+  <VF_FishingMultiplierTooltip>Adjust the amount of fish gathered from fishing boat.</VF_FishingMultiplierTooltip>
+  <VF_FishingDelay>Fishing Delay</VF_FishingDelay>
+  <VF_FishingDelayTooltip>Base amount of ticks it takes to gather fish on a fishing boat.</VF_FishingDelayTooltip>
+  <VF_FishingSkill>Fishing Skill</VF_FishingSkill>
+  <VF_FishingSkillTooltip>How much exp is given by fishing on a boat</VF_FishingSkillTooltip>
+  <VF_FishingPersists>Fishing Persists</VF_FishingPersists>
+  <VF_FishingPersistsTooltip>The Fishing Boat fishing selection will not reset upon drafting.</VF_FishingPersistsTooltip>
+
+  <!-- Aerial Vehicles -->
+  <VF_AerialVehicles>Air</VF_AerialVehicles>
+  <VF_RocketsBurnRadius>Rockets Burn</VF_RocketsBurnRadius>
+  <VF_RocketsBurnRadiusTooltip>Allow aerial vehicles which support this feature to burn all things within a small radius upon takeoff and landing.</VF_RocketsBurnRadiusTooltip>
+  <VF_DynamicDrawing>Dynamic Drawing</VF_DynamicDrawing>
+  <VF_DynamicDrawingTooltip>Render aerial vehicles on the world map when zoomed in.</VF_DynamicDrawingTooltip>
+  <VF_DeployOnLanding>Deploy on Landing</VF_DeployOnLanding>
+  <VF_DeployOnLandingTooltip>When an aerial vehicle lands all pawns onboard will be unloaded.</VF_DeployOnLandingTooltip>
+  <VF_DelayOnLanding>Delay on Landing</VF_DelayOnLanding>
+  <VF_DelayOnLandingTooltip>When an aerial vehicle lands the deployment of all pawns will be delayed.</VF_DelayOnLandingTooltip>
+  <VF_DelaySeconds>seconds</VF_DelaySeconds>
+  <VF_AirDefensesActive>Air Defenses</VF_AirDefensesActive>
+  <VF_AirDefensesActiveTooltip>Certain world objects are able to utilize air defenses to shoot down nearby aircraft.</VF_AirDefensesActiveTooltip>
+
+  <!-- Combat -->
+  <VF_CombatSettings>Combat</VF_CombatSettings>
+  <VF_RunOverPawns>Run Over Pawns</VF_RunOverPawns>
+  <VF_RunOverPawnsTooltip>Vehicles can run over pawns and apply blunt damage based on mass and speed.</VF_RunOverPawnsTooltip>
+  <VF_ChanceToRunOverFriendlies>Friendly Fire Chance</VF_ChanceToRunOverFriendlies>
+  <VF_ChanceToRunOverFriendliesTooltip>Chance to run over friendly pawns.</VF_ChanceToRunOverFriendliesTooltip>
+
+  <!-- Vehicle Stats -->
+  <VF_VehicleStats>Stats</VF_VehicleStats>
+
+  <!-- Upgrade Menu Settings -->
+  <VF_Upgrades>Upgrades (Disabled)</VF_Upgrades>
+  <VF_DrawUpgradeInformationScreen>Draw Upgrade Menu Info Screen</VF_DrawUpgradeInformationScreen>
+  <VF_DrawUpgradeInformationScreenTooltip>Draw additional menu on the upgrade menu to display ship stats and ship icon.</VF_DrawUpgradeInformationScreenTooltip>
+  <VF_OverrideDrawColor>Override Draw Color</VF_OverrideDrawColor>
+  <VF_OverrideDrawColorTooltip>When any upgrade is applied that comes with a pattern or draw color, the previous paint job will be overridden.</VF_OverrideDrawColorTooltip>
+
+</LanguageData>

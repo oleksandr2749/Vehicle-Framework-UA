@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FlightSpeed.label>Швидкість польоту</FlightSpeed.label>
+  <FlightSpeed.description>Швидкість переміщення по мапі світу під час польоту.</FlightSpeed.description>
+  <FlightSpeed.formatString>{0} п/с</FlightSpeed.formatString>
+
+  <FlightControl.label>Контроль польоту</FlightControl.label>
+  <FlightControl.description>Здатність транспорту продовжувати політ.  Якщо значення досягне 0, відбудеться аварійна посадка.</FlightControl.description>
+
+
+</LanguageData>

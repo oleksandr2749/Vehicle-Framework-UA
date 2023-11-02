@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Simplified version of StatDefs that are vehicle specific -->
+
+  <MoveSpeed.label>Швидкість руху</MoveSpeed.label>
+  <MoveSpeed.description>Швидкість руху в клітинах за секунду.</MoveSpeed.description>
+  <MoveSpeed.formatString>{0} к/с</MoveSpeed.formatString>
+  <MoveSpeed.parts.0.formatString>{0} / {1}</MoveSpeed.parts.0.formatString>
+
+  <CargoCapacity.label>Вантажність</CargoCapacity.label>
+  <CargoCapacity.description>Кількість ваги, яку може перевозити цей транспортний засіб в якості вантажу. Це та сама кількість, яка доступна для караванів.</CargoCapacity.description>
+  <CargoCapacity.formatString>{0} кг</CargoCapacity.formatString>
+
+  <RepairRate.label>Швидкість ремонту</RepairRate.label>
+  <RepairRate.description>Кількість міцності, що ремонтується за секунду.</RepairRate.description>
+  <RepairRate.formatString>{0} р/с</RepairRate.formatString>
+
+  <Mass.label>Маса</Mass.label>
+  <Mass.description>Фізична маса цього транспорту.</Mass.description>
+  <Mass.formatString>{0} кг</Mass.formatString>
+
+  <BodyIntegrity.label>Цілісність</BodyIntegrity.label>
+  <BodyIntegrity.description>Середнє значення стану всіх частин автомобіля. Якщо цілісність транспортного засобу досягає 0, він розпадається на частини, вартість яких дорівнює вартості його побудови.</BodyIntegrity.description>
+
+
+</LanguageData>

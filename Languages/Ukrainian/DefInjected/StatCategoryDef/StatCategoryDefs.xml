@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VehicleBasics.label>Основний</VehicleBasics.label>
+  <VehicleBasicsImportant.label>Освновний</VehicleBasicsImportant.label>
+  <VehicleCombat.label>Бойовий</VehicleCombat.label>
+  <VehicleAerial.label>Повітряний</VehicleAerial.label>
+
+
+</LanguageData>

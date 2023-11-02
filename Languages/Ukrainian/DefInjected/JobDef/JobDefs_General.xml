@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Board.reportString>Entering TargetA.</Board.reportString>
+  <LoadUpgradeMaterials.reportString>Loading upgrade materials into TargetB.</LoadUpgradeMaterials.reportString>
+  <IdleVehicle.reportString>Idle.</IdleVehicle.reportString>
+  <PrepareCaravan_GatheringVehicle.reportString>Loading cargo for TargetB.</PrepareCaravan_GatheringVehicle.reportString>
+  <RopeAnimalToVehicle.reportString>Roping {0} to TargetA.</RopeAnimalToVehicle.reportString>
+  <CarryPawnToVehicle.reportString>Carrying TargetA to TargetB.</CarryPawnToVehicle.reportString>
+  <LoadVehicle.reportString>Loading TargetA onto TargetB</LoadVehicle.reportString>
+  <CarryItemToVehicle.reportString>Loading TargetA onto TargetB</CarryItemToVehicle.reportString>
+  <RepairVehicle.reportString>Repairing TargetA.</RepairVehicle.reportString>
+  <DisassembleVehicle.reportString>Disassembling TargetA.</DisassembleVehicle.reportString>
+  <PaintVehicle.reportString>Painting TargetA.</PaintVehicle.reportString>
+  <UpgradeVehicle.reportString>Working on TargetA.</UpgradeVehicle.reportString>
+  <RefuelVehicle.reportString>Refueling TargetA</RefuelVehicle.reportString>
+  <RefuelVehicleAtomic.reportString>Refueling TargetA</RefuelVehicleAtomic.reportString>
+  <FollowVehicle.reportString>Following TargetA.</FollowVehicle.reportString>
+  <EscortVehicle.reportString>Escorting TargetA.</EscortVehicle.reportString>
+
+
+</LanguageData>

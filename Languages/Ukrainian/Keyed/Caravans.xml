@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VF_Caravan_Dismounted>Спішитися</VF_Caravan_Dismounted>
+
+  <VF_Sailing>Sailing</VF_Sailing>
+
+  <VF_DockToCaravan>Речі, що потрібно взяти в дорогу</VF_DockToCaravan>
+
+  <VF_CommandDockShip>Причал</VF_CommandDockShip>
+  <VF_CommandDockShipDesc>Unload all passengers and enable trade with the Settlement of {0}.</VF_CommandDockShipDesc>
+
+  <VF_CommandDockShipDisembark>Причалити та висадитись</VF_CommandDockShipDisembark>
+  <VF_CommandDockShipObjectDesc>Dock Boats and go on foot</VF_CommandDockShipObjectDesc>
+
+  <VF_CommandUndockShip>Водний транспорт</VF_CommandUndockShip>
+  <VF_CommandUndockShipDesc>Завантажирити всіх персонажів та предмети в човни</VF_CommandUndockShipDesc>
+  <VF_CommandAttackDockDisable>Неможна атакувати {0} під час причалюваня в їхнє поселення</VF_CommandAttackDockDisable>
+  <VF_CommandTradeDockDisable>Неможна торгувати з {0}. Необхідно спочатку пришвартувати човен</VF_CommandTradeDockDisable>
+
+  <VF_CaravanMustHaveEnoughSpaceOnShip>На кораблях недостатньо місця для всіх персонажів.</VF_CaravanMustHaveEnoughSpaceOnShip>
+  <VF_CaravanMustHaveEnoughPawnsToOperate>Вибрано недостатньо персонажів, щоб відплисти. Потрібно {0}</VF_CaravanMustHaveEnoughPawnsToOperate>
+
+  <VF_CaravanMustHaveAtLeastOneVehicle>Для вибору маршруту необхідно мати принаймні 1 обраний транспортний засіб.</VF_CaravanMustHaveAtLeastOneVehicle>
+  <VF_CommandFormVehicleCaravan>Смормувати транспортний караван</VF_CommandFormVehicleCaravan>
+  <VF_CommandFormVehicleCaravanDesc>Сформуйте караван з вибраним транспортом.</VF_CommandFormVehicleCaravanDesc>
+
+  <VF_CommandReformVehicleCaravan>Розформувати транспортний караван</VF_CommandReformVehicleCaravan>
+  <VF_CommandReformVehicleCaravanDesc>Розформуйте караван з вибраним транспортом.</VF_CommandReformVehicleCaravanDesc>
+
+  <VF_RoutePlannerToggleVehicleDefs>VehicleDefs</VF_RoutePlannerToggleVehicleDefs>
+  <VF_RoutePlannerToggleVehicles>Транспорт</VF_RoutePlannerToggleVehicles>
+
+</LanguageData>

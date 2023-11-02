@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--[Core] <NotAllowed>Not allowed</NotAllowed>-->
+  <DriverNeeded>Поведінка персонажа</DriverNeeded>
+  <NoDriverNeeded>ШІ Поведінка</NoDriverNeeded>
+
+  <Misc>Інша</Misc>
+  <Transport>Транспорт</Transport>
+  <Trader>Торгівся</Trader>
+  <Combat>Бій</Combat>
+  <Hybrid>Змішана</Hybrid>
+
+  <Manual>Довідник</Manual>
+  <Opportunistic>Опортуністичний</Opportunistic>
+  <Automatic>Автоматичний</Automatic>
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VF_IncidentCrashedSiteLabel_Crashing>{0} Аварійна посадка</VF_IncidentCrashedSiteLabel_Crashing>
+  <VF_IncidentCrashedSiteLabel_ShotDown>{1} Збитий {0}</VF_IncidentCrashedSiteLabel_ShotDown>
+
+  <VF_IncidentReasonLister>\n\nПричина:\n {0}</VF_IncidentReasonLister>
+  <VF_IncidentCrashedSite_Crashing>{0} розбився.</VF_IncidentCrashedSite_Crashing>
+  <VF_IncidentCrashedSite_ShotDown>{0} був збитий {1}.</VF_IncidentCrashedSite_ShotDown>
+  <VF_IncidentCrashedSiteReason_OutOfFuel>Закінчилося пальне</VF_IncidentCrashedSiteReason_OutOfFuel>
+  <VF_IncidentCrashedSiteReason_FlightControl>Втрачено контроль над керуванням</VF_IncidentCrashedSiteReason_FlightControl>
+
+  <VF_ReinforcementsArrivedLabel>Підкріплення</VF_ReinforcementsArrivedLabel>
+  <VF_ReinforcementsArrived>{0} прибула з підкріпленням для обстеження місця аварії.</VF_ReinforcementsArrived>
+
+  <VF_BoatSunk>Судно затонуло</VF_BoatSunk>
+  <VF_BoatSunkDesc>{0} не затонуло а атрицательно вспльіло.</VF_BoatSunkDesc>
+  <VF_BoatSunkWithPawnsDesc>{0} затонуло, забравши з собою наступних персонажів: {1}</VF_BoatSunkWithPawnsDesc>
+
+</LanguageData>

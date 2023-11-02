@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Default.label>Колір</Default.label>
+  <Tiger.label>Тигр</Tiger.label>
+  <TigerStripes.label>Тигрові смуги</TigerStripes.label>
+  <Woodland.label>Ліс</Woodland.label>
+  <Hearts.label>Серця</Hearts.label>
+  <Panther.label>Патера</Panther.label>
+  <Digital.label>Цифра</Digital.label>
+  <Polygon.label>Полігони</Polygon.label>
+  <Rusty.label>Іржа</Rusty.label>
+  <Waves.label>Хвилі</Waves.label>
+  <ZigZag.label>Зіг-зік</ZigZag.label>
+  <Abstract_Medium.label>Абстракція середня</Abstract_Medium.label>
+  <Abstract_Large.label>Абстракція велика</Abstract_Large.label>
+  <Lizard.label>Ящирка</Lizard.label>
+  <Hexagon.label>Шестикутники</Hexagon.label>
+
+</LanguageData>

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Labels and Titles -->
+  <VehicleFramework>Vehicle Framework</VehicleFramework>
+  <VF_Vehicles>Vehicles</VF_Vehicles>
+
+  <!-- Gizmos / Float Menus -->
+  <VF_LoadCargo>Завантажити вантаж</VF_LoadCargo>
+  <VF_HaulPawnToVehicle>Посадити перосонажів</VF_HaulPawnToVehicle>
+  <VF_DisembarkAllPawns>Висадити всіх персонажів</VF_DisembarkAllPawns>
+  <VF_DisembarkSinglePawn>Висадити {0}</VF_DisembarkSinglePawn>
+  <VF_DisembarkNoExit>Неможливо вийти з транспорту. Немає вільних клітин для виходу.</VF_DisembarkNoExit>
+
+  <VF_StopVehicle>Стоп</VF_StopVehicle>
+  <VF_UndraftVehicle>Заглушити транспорт</VF_UndraftVehicle>
+  <VF_DraftVehicleDesc>Drafts vehicle allowing it to move. This will consume fuel if applicable even if the vehicle is idle.</VF_DraftVehicleDesc>
+  <VF_StopVehicleDesc>Негайно зупиніть транспортний засіб.</VF_StopVehicleDesc>
+  <VF_UndraftVehicleDesc>Undrafts vehicle, disabling the consumption of fuel and disallowing movement.</VF_UndraftVehicleDesc>
+  <VF_RefuelFromInventory>Заправити з інвентарю</VF_RefuelFromInventory>
+
+  <!-- UI / Buttons -->
+  <VF_ShowAllItemsOnMap>Показати всі предмети на мапі</VF_ShowAllItemsOnMap>
+  <VF_ResetColorPalettes>Скинути всі палітри</VF_ResetColorPalettes>
+  <VF_ResetColorPalettesConfirmation>Are you sure you want to reset all saved palettes back to default settings? This action cannot be undone.</VF_ResetColorPalettesConfirmation>
+  <VF_RotateVehicleRendering>Повернути транспорт</VF_RotateVehicleRendering>
+  <VF_SaveColorPalette>Зберегти палітру</VF_SaveColorPalette>
+
+  <VF_ColorOne>Колір 1</VF_ColorOne>
+  <VF_ColorTwo>Колір 2</VF_ColorTwo>
+  <VF_ColorThree>Колір 3</VF_ColorThree>
+  <VF_ColorPickerHex>Hex</VF_ColorPickerHex>
+
+  <VF_JobSettings>Налаштування завдання</VF_JobSettings>
+  <VF_VehicleAgeReadout>Вироблено: {0}</VF_VehicleAgeReadout>
+
+  <!-- Stats -->
+  <VF_StatsReport_CargoWeight>Вантаж: {0}</VF_StatsReport_CargoWeight>
+
+  <!-- Designators -->
+
+  <!-- Tooltips -->
+  <VF_RenameVehicleTooltip>Дати назву.</VF_RenameVehicleTooltip>
+  <VF_RecolorTooltip>Змінити кольори або візерунок.</VF_RecolorTooltip>
+  <VF_DoubleClickShuttleTarget>Натисніть, щоб підтвердити місце призначення</VF_DoubleClickShuttleTarget>
+  <VF_SwapColors>Циклічно чергуйте кольори між собою.\nКолір 1 -> Колір 2 -> Колір 3</VF_SwapColors>
+  <VF_StartFishing>Рибалити</VF_StartFishing>
+  <VF_StartFishingDesc>Ловіть рибу. Глибина води впливає на шанс успіху.</VF_StartFishingDesc>
+  <VF_ExplosiveComponent>Піддірвати</VF_ExplosiveComponent>
+  <VF_EditPawnOverlayRendererTooltip>Змінити накладання персонажів</VF_EditPawnOverlayRendererTooltip>
+  <VF_ComponentClickMoreInfoTooltip>Натисніть для отримання детальної інформації.</VF_ComponentClickMoreInfoTooltip>
+
+  <!-- Turret Restrictions -->
+  <VF_VehicleRestriction_Stationary>Не може стріляти під час руху.</VF_VehicleRestriction_Stationary>
+
+  <!-- Color Picker -->
+  <VF_Patterns>Візерунки</VF_Patterns>
+  <VF_Skins>Скін</VF_Skins>
+  <VF_PatternZoom>Розмір</VF_PatternZoom>
+  <VF_PatternZoomTooltip>Масштабуйте шаблон у бік збільшення або зменшення.</VF_PatternZoomTooltip>
+  <VF_PatternDisplacementX>Переміщення X</VF_PatternDisplacementX>
+  <VF_PatternDisplacementY>Переміщення Y</VF_PatternDisplacementY>
+
+  <VF_Electric>Електрика</VF_Electric>
+  <VF_ElectricFlick>Зарядка акумулятора</VF_ElectricFlick>
+  <VF_ElectricFlickDesc>Connect to PowerNet below vehicle.</VF_ElectricFlickDesc>
+  <VF_OutOfFuel>Рух неможливий. Закінчилося пальне.</VF_OutOfFuel>
+
+  <VF_Assign>Призначити</VF_Assign>
+  <VF_Assigned>Призначено</VF_Assigned>
+  <VF_ApplyButton>Застосувати</VF_ApplyButton>
+  <VF_Colonists>Колоністи</VF_Colonists>
+  <VF_ClearSeats>Очистити</VF_ClearSeats>
+  <VF_RemoveFromRole>Видалити</VF_RemoveFromRole>
+  <VF_AddToRole>Додати</VF_AddToRole>
+  <VF_RoutePlannerButtonTip>Click to enter the planning mode for Vehicles where you can select specific vehicles you own, and plan your journey. Pathing is adjusted based on the vehicles selected.</VF_RoutePlannerButtonTip>
+  <VF_SelectVehiclesForPlanner>Вибрати трансопртний засуб</VF_SelectVehiclesForPlanner>
+  <VF_StartVehicleRoutePlanner>Start Route</VF_StartVehicleRoutePlanner>
+  <VF_OkName>Підтвердити назву</VF_OkName>
+  <VF_RemoveName>Видалити назву</VF_RemoveName>
+
+  <!-- Aerial Vehicles -->
+  <VF_NoFlightSpeed>Неможливо запустити зі швидкістю польоту = 0.</VF_NoFlightSpeed>
+  <VF_CannotLaunchWhileMoving>Неможливо запустити, поки {0} рухається.</VF_CannotLaunchWhileMoving>
+  <VF_CannotLaunchImmobile>{0} не може запустити, не маючи можливості руху.</VF_CannotLaunchImmobile>
+  <VF_CannotLaunchOverEncumbered>{0} не може запустити при перевантаженні.</VF_CannotLaunchOverEncumbered>
+
+  <VF_TabCargo>Вантаж</VF_TabCargo>
+  <VF_TabPassengers>Персонажи</VF_TabPassengers>
+  <VF_TabComponents>Здоров'я</VF_TabComponents>
+  <VF_TabUpgrades>Налаштування</VF_TabUpgrades>
+
+  <VF_ComponentHealth>Здоров'я</VF_ComponentHealth>
+  <VF_ComponentEfficiency>Ефективність</VF_ComponentEfficiency>
+  <VF_ComponentArmor>Броня</VF_ComponentArmor>
+
+  <VF_NoFuelReturnTrip>No Return Trip</VF_NoFuelReturnTrip>
+  <VF_NotEnoughFuel>Out Of Range</VF_NotEnoughFuel>
+
+  <!-- HeaderTitles -->
+  <VF_Cargo>Вантаж</VF_Cargo>
+  <VF_Properties>Властивості</VF_Properties>
+  <VF_LauncherProperties>Властивості запуску</VF_LauncherProperties>
+  <VF_FueledTravelPropertes>Пальне</VF_FueledTravelPropertes>
+  <VF_JobLimitations>Максимальна кількість працівників за одним робочим місцем</VF_JobLimitations>
+
+</LanguageData>
